@@ -1,1 +1,3 @@
-
+define (test) {
+print (meow test awa);
+};
